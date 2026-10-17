@@ -1,0 +1,24 @@
+# 依赖
+node_modules/
+
+# MyAgents 运行时文件
+myagents_files/
+.claude/
+
+# 原始大数据（可重新生成）
+beijing-260710.osm.pbf
+tsinghua_osm_data.json
+tiles/
+tile_list.json
+
+# 参考资料
+资料/
+
+# 临时/中间文件
+_check.js
+buildings_updated.js
+总图.jpg
+
+# 系统文件
+.DS_Store
+Thumbs.db
